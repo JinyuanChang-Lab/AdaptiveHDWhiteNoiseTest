@@ -130,7 +130,7 @@ run_simulation_model78_only(
 )
 ```
 
-The current script saves results to `model7_sim78/` and `model8_sim78/` at the repository root. It uses the same setting grid and lag-file convention as the main simulation. Only `Li2019`,  and `our_resampling` are computed; the remaining method columns are `NA`.
+The script saves results to `result/model7_sim78/` and `result/model8_sim78/`. It uses the same setting grid and lag-file convention as the main simulation. Only `Li2019`,  and `our_resampling` are computed; the remaining method columns are `NA`.
 
 ### Empirical-size plots: supplementary Figure F1
 
