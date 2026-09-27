@@ -1,0 +1,10 @@
+period_id,period_label,method,K,alpha,n_windows,rejection_rate,min_p_value,median_p_value,longest_rejection_run
+gfc_2005_2010,The global financial crisis period,Chang2017,1,0.05,252,0,0.477,0.718,0
+gfc_2005_2010,The global financial crisis period,Chen2025_D,1,0.05,252,0.670634920634921,3.27670810409038e-09,0.00296982065224926,128
+gfc_2005_2010,The global financial crisis period,Chen2025_R,1,0.05,252,0.603174603174603,3.65432255468795e-08,0.0127756162551798,72
+gfc_2005_2010,The global financial crisis period,Chen2025_tau_star,1,0.05,252,0.634920634920635,1.66682117765308e-08,0.00812814254234685,83
+gfc_2005_2010,The global financial crisis period,Feng2022_T_FC,1,0.05,252,0.920634920634921,3.22329845170312e-19,0.000133244390105152,184
+gfc_2005_2010,The global financial crisis period,Li2019,1,0.05,252,0.686507936507937,2.24605966478194e-17,0.00304601168392346,140
+gfc_2005_2010,The global financial crisis period,Tsay2020,1,0.05,252,0.174603174603175,5.09073813992345e-07,0.353619571686891,19
+gfc_2005_2010,The global financial crisis period,Wang2022,1,0.05,252,0.246031746031746,0,0.1032,52
+gfc_2005_2010,The global financial crisis period,our_resampling,1,0.05,252,0.253968253968254,0,0.113,54

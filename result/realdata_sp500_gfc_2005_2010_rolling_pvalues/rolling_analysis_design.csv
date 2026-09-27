@@ -1,0 +1,2 @@
+universe_start,universe_end,p_common,window_size,step_size,alpha,K_values,methods_this_run,methods_in_combined_plot,parallel,workers,return_multiplier,seed
+2005-01-01,2010-12-31,349,252,5,0.05,1,"our_resampling,Li2019,Chang2017,Wang2022,Tsay2020,Feng2022_T_FC,Chen2025_D,Chen2025_R,Chen2025_tau_star","our_resampling,Li2019,Chang2017,Wang2022,Tsay2020,Feng2022_T_FC,Chen2025_D,Chen2025_R,Chen2025_tau_star",TRUE,6,100,20260821
