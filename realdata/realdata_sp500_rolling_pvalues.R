@@ -1233,29 +1233,6 @@ if (sys.nframe() == 0L) {
   run_rolling_application()
 }
 
-# cfg <- CONFIG
-# cfg$output_dir <- "./realdata_sp500_gfc_vs_covid_results_rolling_pvalues"
-# cfg$methods <- c(
-#   "our_resampling",
-#   "Li2019",
-#   "Li2019_correction",
-#   "Chang2017",
-#   "Wang2022",
-#   "Tsay2020",
-#   "our",
-#   "Feng2022_T_SUM",
-#   "Feng2022_T_MAX",
-#   "Feng2022_T_FC",
-#   "Chen2025_rho",
-#   "Chen2025_tau",
-#   "Chen2025_D",
-#   "Chen2025_R",
-#   "Chen2025_tau_star"
-# )
-# cfg$alpha <- 0.1
-# run_rolling_application(cfg)
-
-
 
 # 0925
 PERIODS <- data.table(
